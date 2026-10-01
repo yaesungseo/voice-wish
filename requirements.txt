@@ -1,0 +1,10 @@
+fastapi==0.135.1
+uvicorn==0.42.0
+
+torch==2.8.0
+torchaudio==2.8.0
+
+coqui-tts==0.25.3
+transformers==4.46.2
+
+hangul-romanize==0.1.0
